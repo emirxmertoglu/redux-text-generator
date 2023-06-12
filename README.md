@@ -10,4 +10,4 @@ I tried to make a clean software architecture and responsive web design also the
 - Axios,
 - Tailwind CSS
 
-### You can check the live version of the project [here](https://example.com).
+### You can check the live version of the project [here](https://redux-text-generator.vercel.app/).
